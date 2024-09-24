@@ -1,4 +1,8 @@
 ## Cộng đồng
+- Thiết kế website: https://laptrinhjavaweb.com/khoa-hoc-lap-trinh-java-spring-boot-co-ban-mien-phi-216
+- Java backend api web service: https://laptrinhjavaweb.com/hoc-spring-boot-viet-api-web-service-185
+
+## Cộng đồng
 - Hỏi đáp, thảo luận: https://www.facebook.com/groups/laptrinhjavaweb
 - Nhận thông báo qua zalo: https://zalo.me/g/pvnkgo753
 - Nhận thông báo qua facebook: https://www.facebook.com/laptrinhjavaweb
