@@ -1,5 +1,6 @@
-## Cộng đồng
-- Thiết kế website: https://laptrinhjavaweb.com/khoa-hoc-lap-trinh-java-spring-boot-co-ban-mien-phi-216
+## Các khóa học
+- Thiết kế website cơ bản: https://laptrinhjavaweb.com/hoc-java-spring-boot-co-ban-mien-phi-159
+- Thiết kế website nâng cao: https://laptrinhjavaweb.com/khoa-hoc-lap-trinh-java-spring-boot-co-ban-mien-phi-216
 - Java backend api web service: https://laptrinhjavaweb.com/hoc-spring-boot-viet-api-web-service-185
 
 ## Cộng đồng
